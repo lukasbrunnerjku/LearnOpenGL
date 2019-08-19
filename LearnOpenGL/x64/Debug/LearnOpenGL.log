@@ -1,0 +1,2 @@
+﻿  glad.c
+C:\Users\Lukas\source\repos\LearnOpenGL\Dependencies\GLAD\src\glad.c(25,10): error C1083:  Datei (Include) kann nicht geöffnet werden: "glad/glad.h": No such file or directory

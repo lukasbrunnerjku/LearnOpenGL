@@ -1,0 +1,2 @@
+﻿LINK : warning LNK4098: Standardbibliothek "MSVCRT" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
+  LearnOpenGL.vcxproj -> C:\Users\Lukas\source\repos\LearnOpenGL\Debug\LearnOpenGL.exe
